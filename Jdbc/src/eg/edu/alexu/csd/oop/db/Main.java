@@ -1,6 +1,5 @@
 package eg.edu.alexu.csd.oop.db;
 
-
 import java.io.IOException;
 
 import java.sql.SQLException;
